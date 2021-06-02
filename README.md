@@ -6,5 +6,6 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 
 ## In This Section
 
-### BT1 Intro, Notes & Section 3 Assets ###
-### BT2 S03 Game Design Document (GDD) ###
+### BT1 Intro, Notes & Section 4 Assets ###
+### BT2 S04 Game Design Document (GDD) ###
+### BT3 Setting Up a GitHub "Repo" ###
